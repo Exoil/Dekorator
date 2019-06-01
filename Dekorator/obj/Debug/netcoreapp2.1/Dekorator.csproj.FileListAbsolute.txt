@@ -1,0 +1,11 @@
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\bin\Debug\netcoreapp2.1\Dekorator.deps.json
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\bin\Debug\netcoreapp2.1\Dekorator.runtimeconfig.json
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\bin\Debug\netcoreapp2.1\Dekorator.runtimeconfig.dev.json
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\bin\Debug\netcoreapp2.1\Dekorator.dll
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\bin\Debug\netcoreapp2.1\Dekorator.pdb
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\obj\Debug\netcoreapp2.1\Dekorator.csprojAssemblyReference.cache
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\obj\Debug\netcoreapp2.1\Dekorator.csproj.CoreCompileInputs.cache
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\obj\Debug\netcoreapp2.1\Dekorator.AssemblyInfoInputs.cache
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\obj\Debug\netcoreapp2.1\Dekorator.AssemblyInfo.cs
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\obj\Debug\netcoreapp2.1\Dekorator.dll
+C:\Users\Exoil\Documents\resources\repos\Dekorator\Dekorator\obj\Debug\netcoreapp2.1\Dekorator.pdb
